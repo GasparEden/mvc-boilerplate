@@ -6,6 +6,7 @@
 git clone https://github.com/GasparEden/mvc-boilerplate.git MyApp
 cd MyApp
 composer init
+composer dump-autoload
 ```
 
 ## Start

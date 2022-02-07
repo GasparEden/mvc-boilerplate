@@ -1,0 +1,9 @@
+{
+    "name": "gaspareden/mvc-boilerplate",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
